@@ -1,6 +1,13 @@
 # Ft_printf
 
+<p>
+  <img src="Score_ft_printf.png" alt="Score ft_printf 100/100" align="left">
+
+ <br><br>
 It is a library function that mimics the functionality of the standard printf function in C.
+<br><br>
+<br><br>
+</p>
 
 ## Installation
 
